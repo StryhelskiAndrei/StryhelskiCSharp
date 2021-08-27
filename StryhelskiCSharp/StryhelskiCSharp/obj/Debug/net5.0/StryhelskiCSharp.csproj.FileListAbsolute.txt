@@ -1,0 +1,16 @@
+D:\Andersen\StryhelskiCSharp\StryhelskiCSharp\bin\Debug\net5.0\StryhelskiCSharp.exe
+D:\Andersen\StryhelskiCSharp\StryhelskiCSharp\bin\Debug\net5.0\StryhelskiCSharp.deps.json
+D:\Andersen\StryhelskiCSharp\StryhelskiCSharp\bin\Debug\net5.0\StryhelskiCSharp.runtimeconfig.json
+D:\Andersen\StryhelskiCSharp\StryhelskiCSharp\bin\Debug\net5.0\StryhelskiCSharp.runtimeconfig.dev.json
+D:\Andersen\StryhelskiCSharp\StryhelskiCSharp\bin\Debug\net5.0\StryhelskiCSharp.dll
+D:\Andersen\StryhelskiCSharp\StryhelskiCSharp\bin\Debug\net5.0\ref\StryhelskiCSharp.dll
+D:\Andersen\StryhelskiCSharp\StryhelskiCSharp\bin\Debug\net5.0\StryhelskiCSharp.pdb
+D:\Andersen\StryhelskiCSharp\StryhelskiCSharp\obj\Debug\net5.0\StryhelskiCSharp.csproj.AssemblyReference.cache
+D:\Andersen\StryhelskiCSharp\StryhelskiCSharp\obj\Debug\net5.0\StryhelskiCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Andersen\StryhelskiCSharp\StryhelskiCSharp\obj\Debug\net5.0\StryhelskiCSharp.AssemblyInfoInputs.cache
+D:\Andersen\StryhelskiCSharp\StryhelskiCSharp\obj\Debug\net5.0\StryhelskiCSharp.AssemblyInfo.cs
+D:\Andersen\StryhelskiCSharp\StryhelskiCSharp\obj\Debug\net5.0\StryhelskiCSharp.csproj.CoreCompileInputs.cache
+D:\Andersen\StryhelskiCSharp\StryhelskiCSharp\obj\Debug\net5.0\StryhelskiCSharp.dll
+D:\Andersen\StryhelskiCSharp\StryhelskiCSharp\obj\Debug\net5.0\ref\StryhelskiCSharp.dll
+D:\Andersen\StryhelskiCSharp\StryhelskiCSharp\obj\Debug\net5.0\StryhelskiCSharp.pdb
+D:\Andersen\StryhelskiCSharp\StryhelskiCSharp\obj\Debug\net5.0\StryhelskiCSharp.genruntimeconfig.cache
